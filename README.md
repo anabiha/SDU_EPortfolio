@@ -1,2 +1,2 @@
-# SDU_EPortfolio
+# SDU EPortfolio
 EPortfolio Project for SDU
